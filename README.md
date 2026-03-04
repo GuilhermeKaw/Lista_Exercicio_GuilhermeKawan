@@ -4,7 +4,7 @@
 
 ---
 
-📌 #Sobre o Projeto
+# Sobre o Projeto
 
 Este repositório reúne uma lista estruturada de exercícios de Lógica de Programação em C#, desenvolvida durante atividades educacionais no SENAI.
 
@@ -14,7 +14,7 @@ Mesmo sendo um projeto acadêmico, ele segue uma organização pensada como se f
 
 ---
 
-🎯 # Objetivos
+# Objetivos
 
 Desenvolver raciocínio lógico e pensamento computacional
 
@@ -26,7 +26,7 @@ Criar base sólida para desenvolvimento backend e frontend
 
 Simular organização de projetos reais
 
-🧠 # Conteúdos Trabalhados
+# Conteúdos Trabalhados
 
 🔹 Nível 1 – Fundamentos
 
@@ -70,7 +70,7 @@ Percorrendo coleções
 
 ---
 
-🛠️ # Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 C#
 
@@ -80,7 +80,7 @@ Visual Studio
 
 ---
 
-▶️ # Como Executar o Projeto
+# Como Executar o Projeto
 
 Abrir o Visual Studio
 
@@ -92,7 +92,7 @@ Executar utilizando F5 ou Ctrl + F5
 
 ---
 
-📂 # Estrutura do Projeto
+# Estrutura do Projeto
 
 O projeto segue uma organização simples:
 
@@ -105,7 +105,7 @@ Cada exercício pode ser executado individualmente ou organizado por métodos de
 
 ---
 
-📈 # Evolução Técnica
+# Evolução Técnica
 
 Este repositório representa:
 
@@ -119,7 +119,7 @@ O começo da minha jornada como desenvolvedor
 
 ---
 
-📜 # Licença
+# Licença
 
 Este projeto está licenciado sob a Licença MIT.
 
@@ -139,7 +139,7 @@ Arquivo completo disponível em LICENSE.
 
 ---
 
-👨‍💻 # Autor
+# Autor
 
 Guilherme Kawan Silva Rodrigues
 Estudante de Desenvolvimento de Sistemas – SENAI
