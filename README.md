@@ -1,5 +1,9 @@
 # **Lista de Exercícios de Lógica de Programação – SENAI**
 
+<p align="center">
+  <strong>Atividade desenvolvida durante as aulas no SENAI</strong>
+</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
