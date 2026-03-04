@@ -1,4 +1,4 @@
-<div align="center"> # Lista de Exercícios de Lógica de Programação – SENAI </div>
+<div align="center"># Lista de Exercícios de Lógica de Programação – SENAI </div>
 <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/> </div>
 <br><br>
 
