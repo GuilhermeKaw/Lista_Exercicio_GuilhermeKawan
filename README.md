@@ -1,9 +1,10 @@
-Lista de Exercícios de Lógica de Programação – SENAI
-<div align="center"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="70"/> <img src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png" width="140"/> </div>
-
+# Lista de Exercícios de Lógica de Programação – SENAI
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/> </div>
 <br><br>
 
-📌 Sobre o Projeto
+---
+
+📌 # Sobre o Projeto
 
 Este repositório reúne uma lista estruturada de exercícios de Lógica de Programação em C#, desenvolvida durante atividades educacionais no SENAI.
 
@@ -11,7 +12,9 @@ O projeto tem como finalidade fortalecer a base lógica necessária para o desen
 
 Mesmo sendo um projeto acadêmico, ele segue uma organização pensada como se fosse um projeto real de desenvolvimento.
 
-🎯 Objetivos
+---
+
+🎯 # Objetivos
 
 Desenvolver raciocínio lógico e pensamento computacional
 
@@ -23,7 +26,8 @@ Criar base sólida para desenvolvimento backend e frontend
 
 Simular organização de projetos reais
 
-🧠 Conteúdos Trabalhados
+🧠 # Conteúdos Trabalhados
+
 🔹 Nível 1 – Fundamentos
 
 Declaração de variáveis
@@ -64,7 +68,9 @@ Manipulação de dados em memória
 
 Percorrendo coleções
 
-🛠️ Tecnologias Utilizadas
+---
+
+🛠️ # Tecnologias Utilizadas
 
 C#
 
@@ -72,7 +78,9 @@ C#
 
 Visual Studio
 
-▶️ Como Executar o Projeto
+---
+
+▶️ # Como Executar o Projeto
 
 Abrir o Visual Studio
 
@@ -82,7 +90,9 @@ Copiar os exercícios para o arquivo Program.cs
 
 Executar utilizando F5 ou Ctrl + F5
 
-📂 Estrutura do Projeto
+---
+
+📂 # Estrutura do Projeto
 
 O projeto segue uma organização simples:
 
@@ -93,7 +103,9 @@ O projeto segue uma organização simples:
 
 Cada exercício pode ser executado individualmente ou organizado por métodos dentro do mesmo arquivo.
 
-📈 Evolução Técnica
+---
+
+📈 # Evolução Técnica
 
 Este repositório representa:
 
@@ -105,7 +117,9 @@ Meu primeiro contato com organização de código
 
 O começo da minha jornada como desenvolvedor
 
-📜 Licença
+---
+
+📜 # Licença
 
 Este projeto está licenciado sob a Licença MIT.
 
@@ -123,16 +137,10 @@ Desde que os devidos créditos sejam mantidos ao autor original.
 
 Arquivo completo disponível em LICENSE.
 
-👨‍💻 Autor
+---
+
+👨‍💻 # Autor
 
 Guilherme Kawan Silva Rodrigues
 Estudante de Desenvolvimento de Sistemas – SENAI
 Focado em evoluir constantemente na área de tecnologia 🚀
-
-💡 Observação Final
-
-Este projeto foi desenvolvido com foco educacional, mas já seguindo boas práticas de organização, documentação e versionamento.
-
-É apenas o começo.
-
-Ainda vem muita evolução por aí.
