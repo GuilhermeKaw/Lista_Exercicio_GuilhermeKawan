@@ -1,6 +1,6 @@
-<p align="center">
+<h align="center">
   # **Lista de Exercícios de Lógica de Programação – SENAI**
-</p>
+</h>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
