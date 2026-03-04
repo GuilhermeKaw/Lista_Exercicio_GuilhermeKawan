@@ -1,7 +1,5 @@
-# **Lista de Exercícios de Lógica de Programação – SENAI**
-
 <p align="center">
-  <strong>Atividade desenvolvida durante as aulas no SENAI</strong>
+  # **Lista de Exercícios de Lógica de Programação – SENAI**
 </p>
 
 <div align="center">
