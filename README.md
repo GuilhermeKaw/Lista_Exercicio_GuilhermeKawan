@@ -4,7 +4,7 @@
 
 ---
 
-📌 # Sobre o Projeto
+📌 #Sobre o Projeto
 
 Este repositório reúne uma lista estruturada de exercícios de Lógica de Programação em C#, desenvolvida durante atividades educacionais no SENAI.
 
